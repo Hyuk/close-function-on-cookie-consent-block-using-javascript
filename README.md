@@ -1,0 +1,1 @@
+# Close function on cookie consent block using javascript
